@@ -1,2 +1,5 @@
 # Glass-Classification-with-Machine-Learning-
-Machine learning classification algorithms
+Exploratory Data Analyses,
+Feature Selection using PCA,
+Model Development
+Model Performance
